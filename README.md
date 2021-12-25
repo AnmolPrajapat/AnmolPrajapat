@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnmolPrajapat
-- 👀 I’m interested in mobile and web applications
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning android app development
 
 <!---
